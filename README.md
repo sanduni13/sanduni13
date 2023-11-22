@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @sanduni13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sanduni
 
-<!---
-sanduni13/sanduni13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I am passionate about software engineering. Currently pursuing my
+  BSc (Hons) in Information Technology at Horizon Campus, I enjoy diving
+  into projects that include Full Stack Development, API Development, and
+  Cloud Computing.
+
+- 🌱 I’m currently learning about basic programming Languages and Technologies.
+- 💞️ I am always open to collaborating on exciting projects or discussing new
+  ideas. Let's join together and build something awesome! 😊
+
